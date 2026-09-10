@@ -1,5 +1,5 @@
 import base_url from "./base_url";
-import commonApi from "./commonApi";
+import commonApi from "./commonAPI";
 
 
 // ======================================
