@@ -9,7 +9,7 @@ import commonApi from "./commonApi";
 export const loginApi = async (data) => {
 
     return await commonApi(
-        `${base_url}/token`,
+        `${base_url}/token/`,
         "POST",
         data,
         {
